@@ -1,40 +1,33 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Kadek Adit Wiryadana"
+image: "adit.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/kadek-adit-wiryadana-151a48168/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/AditWiryadana"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/wiryadana"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:ka.wiryadana@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Kadek Adit Wiryadana is medical doctor by training and self-taught R data analyst. 
+He had assisted various research project and data analysis during his medical training. 
+Experienced in scientific publishing and running OJS system. 
+He is amazed by the open source project and works mainly with R and Linux. 
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Universitas Udayana** | Denpasar, Indonesia
 
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+Medical Training | August 2014 - March 2020
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Intisari Sains Medis** | Assistance Journal Manager | August 2020 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
