@@ -1,0 +1,33 @@
+---
+title: "Kadek Adit Wiryadana"
+image: "adit.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kadek-adit-wiryadana-151a48168/"
+  - label: Twitter
+    url: "https://twitter.com/AditWiryadana"
+  - label: GitHub
+    url: "https://github.com/wiryadana"
+  - label: Email
+    url: "mailto:ka.wiryadana@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Kadek Adit Wiryadana is medical doctor by training and self-taught R data analyst. 
+He had assisted various research project and data analysis during his medical training. 
+Experienced in scientific publishing and running OJS system. 
+He is amazed by the open source project and works mainly with R and Linux. 
+
+## Education
+
+**Universitas Udayana** | Denpasar, Indonesia
+
+Medical Training | August 2014 - March 2020
+
+## Experience
+
+**Intisari Sains Medis** | Assistance Journal Manager | August 2020 - Present
+
